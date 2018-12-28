@@ -1,0 +1,13 @@
+D:\Source\Phil Personal\MouseSerial\MouseSerial\bin\Debug\MouseSerial.exe.config
+D:\Source\Phil Personal\MouseSerial\MouseSerial\bin\Debug\MouseSerial.exe
+D:\Source\Phil Personal\MouseSerial\MouseSerial\bin\Debug\MouseSerial.pdb
+D:\Source\Phil Personal\MouseSerial\MouseSerial\bin\Debug\MouseSerial.xml
+D:\Source\Phil Personal\MouseSerial\MouseSerial\bin\Debug\ClassLibrary1.dll
+D:\Source\Phil Personal\MouseSerial\MouseSerial\bin\Debug\ClassLibrary1.pdb
+D:\Source\Phil Personal\MouseSerial\MouseSerial\obj\Debug\MouseSerial.vbprojResolveAssemblyReference.cache
+D:\Source\Phil Personal\MouseSerial\MouseSerial\obj\Debug\MouseSerial.Form1.resources
+D:\Source\Phil Personal\MouseSerial\MouseSerial\obj\Debug\MouseSerial.Resources.resources
+D:\Source\Phil Personal\MouseSerial\MouseSerial\obj\Debug\MouseSerial.vbproj.GenerateResource.Cache
+D:\Source\Phil Personal\MouseSerial\MouseSerial\obj\Debug\MouseSerial.exe
+D:\Source\Phil Personal\MouseSerial\MouseSerial\obj\Debug\MouseSerial.xml
+D:\Source\Phil Personal\MouseSerial\MouseSerial\obj\Debug\MouseSerial.pdb
